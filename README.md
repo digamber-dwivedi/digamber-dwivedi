@@ -18,9 +18,9 @@ Live vehicle marketplace platform on AWS: 10 microservices on K3s Kubernetes
 - Terraform for infrastructure as code
 
 ## 📂 Public Projects
-- [db-backup-k8s](https://github.com/digamber-dwivedi/db-backup-k8s) — Automated PostgreSQL backup to S3 via Kubernetes CronJob
-- [terraform](https://github.com/digamber-dwivedi/terraform) — AWS infra as code with IAM Identity Center SSO
-- [gadiyadekho-upload-portal](https://github.com/digamber-dwivedi/gadiyadekho-upload-portal) — File upload portal with K8s deployment
+- [db-backup-k8s](https://github.com/digamber-dwivedi/db-backup-k8s)  Automated PostgreSQL backup to S3 via Kubernetes CronJob
+- [terraform](https://github.com/digamber-dwivedi/terraform)  AWS infra as code with IAM Identity Center SSO
+- [gadiyadekho-upload-portal](https://github.com/digamber-dwivedi/gadiyadekho-upload-portal)  File upload portal with K8s deployment
 
 ## 📫 Contact
 - Email: digamdip@gmail.com
