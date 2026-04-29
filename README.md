@@ -11,7 +11,7 @@ Cloud Engineer | SRE | DevOps transitioning into Cloud Engineering
 - **Databases:** PostgreSQL, MSSQL, Redis
 
 ##  Featured Project — GaadiyaHub
-Live vehicle marketplace platform on AWS — 10 microservices on K3s Kubernetes
+Live vehicle marketplace platform on AWS: 10 microservices on K3s Kubernetes
 - GitHub Actions CI/CD pipeline with self-hosted runner
 - Prometheus + Grafana monitoring
 - ECK (Elastic Cloud on Kubernetes) for log observability
