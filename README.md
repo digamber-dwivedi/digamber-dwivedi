@@ -10,7 +10,7 @@ Cloud Engineer | SRE | DevOps transitioning into Cloud Engineering
 - **Observability:** ELK Stack, Prometheus, Grafana, Dynatrace
 - **Databases:** PostgreSQL, MSSQL, Redis
 
-##  Featured Project — GaadiyaHub
+##  Featured Project- GaadiyaHub.com
 Live vehicle marketplace platform on AWS: 10 microservices on K3s Kubernetes
 - GitHub Actions CI/CD pipeline with self-hosted runner
 - Prometheus + Grafana monitoring
